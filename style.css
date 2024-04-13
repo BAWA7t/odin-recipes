@@ -1,0 +1,21 @@
+.main-page{
+    background-color: #dfa5a5;
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.page-head {
+    padding: 2px;
+    margin: 40px;
+}
+.recipes-container {
+    margin: 50px;
+}
+.recipes-container a {
+    display: block;
+    margin-bottom: 20px;
+}
+
